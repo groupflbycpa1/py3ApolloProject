@@ -10,3 +10,8 @@ This would continue until all the spaces on the grid are filled.
 If there are 3 matching marks lined up together (vertically, diagonally, or horizontally), the code will output that mark as the winner. 
 If the grid is filled without 3 matching marks, the code will output a draw. 
 If the user tries to input their mark on an already filled spot on the grid, the code will reject it and the user has to try again.
+
+List of features:
+- An option to select which character to play as, featuring the three chipmunks and a secret character.
+- A functioning tic-tac-toe board.
+- Change markers acccording to character.
